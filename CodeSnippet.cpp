@@ -1,3 +1,4 @@
+//main
 #include "CodeSnippet.h"
 
 CodeSnippet::CodeSnippet(const std::string& title, const std::string& language, const std::vector<std::string>& tags, const std::string& code)
